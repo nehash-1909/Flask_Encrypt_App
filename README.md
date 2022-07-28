@@ -1,9 +1,8 @@
-# greetingApp_FLASK
-a simple greeting app built with flask, ready to deploy to Heroku
+# Encryption Application
+Enter String and encrypt using python RSA Algotihm
 
-![ss](https://user-images.githubusercontent.com/32107652/134775021-659d1384-0c37-43a7-b373-593d87f2b475.png)
+![ss](https://github.com/nehash-1909/Flask_Encrypt_App/blob/57b1f9312c5f69d3a935ee4e533d64ec4d95ff11/static/images/logo.png)
 <br>
 <br>
-Author: Mariya Sha
+Author: Neha Sharma
 <br>
-Watch on YouTube: https://youtu.be/6plVs_ytIH8
